@@ -1,5 +1,5 @@
 ---
-title: Example
+title: NextEvent
 layout:  null
 tab: true
 order: 1
