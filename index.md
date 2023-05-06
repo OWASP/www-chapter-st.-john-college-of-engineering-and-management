@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP St. John College of Engineering and Management
-tags: example-tag
+tags: Palghar
 region: Asia
 meetup-group:
 
