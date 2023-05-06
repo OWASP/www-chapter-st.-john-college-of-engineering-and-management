@@ -3,7 +3,7 @@ title: NextEvent
 layout:  null
 tab: true
 order: 1
-tags: Palghar
+tags: example-tag
 ---
 
 ## Next Meeting/Event
