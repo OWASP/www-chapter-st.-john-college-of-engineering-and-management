@@ -1,11 +1,14 @@
 ---
+
 title: NextEvent
-layout:  null
+displaytext: Next Event
+layout: null
 tab: true
 order: 1
-tags: example-tag
+tags: Palghar
+
 ---
 
-## Example
+## Next Meetings/Events
 
 No Events are currently scheduled
