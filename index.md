@@ -11,8 +11,8 @@ meetup-group:
 <img src="assets/images/sjcem.png" />
 
 ## Welcome
-St. John College of Engineering and Management (SJCEM) provides facilities for professional education in the rural and tribal area of Palghar District near Mumbai by offering professional engineering and management courses with  the following vision:
-              “Excellence in Engineering Education & Creating Next-Gen Leaders / Managers in the Service of Society” 
+St. John College of Engineering and Management (SJCEM) provides facilities for professional education in the rural and tribal area of Palghar District near Mumbai by offering professional engineering and management courses with  the following
+### Vision: “Excellence in Engineering Education & Creating Next-Gen Leaders / Managers in the Service of Society” 
 The college is situated within a lush green campus in a serene and quiet ambience at the St John Technical Education Complex, located at Vevoor, Palghar (East), district Palghar in Maharashtra. Palghar is a part of Mumbai Suburban Rail Network which extends up to Dahanu and lies on the Mumbai- Ahmedabad rail route 30 kms north of Virar.
 
 
