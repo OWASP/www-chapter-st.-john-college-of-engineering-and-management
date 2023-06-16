@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<img src="assets/images/sjcem.png" />
+<img src="assets/images/sjcem.jpg" />
 
 ## Welcome
 St. John College of Engineering and Management (SJCEM) provides facilities for professional education in the rural and tribal area of Palghar District near Mumbai by offering professional engineering and management courses with  the following
