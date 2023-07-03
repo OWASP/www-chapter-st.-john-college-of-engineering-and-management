@@ -1,4 +1,4 @@
-##### St. John College of Engineering and Management
+#### St. John College of Engineering and Management
 #### Accredited with NAAC A+
 * [Visit us](https://www.sjcem.edu.in/)
 
