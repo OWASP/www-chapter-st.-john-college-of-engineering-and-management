@@ -1,5 +1,5 @@
 <h4>St. John College of Engineering and Management</h4>
-<b><div align="center">Accredited with NAAC A+</div></b>
+<div align="center"><b>Accredited with NAAC A+</b></div>
 * [Visit us](https://www.sjcem.edu.in/)
 
 ### Social Links
