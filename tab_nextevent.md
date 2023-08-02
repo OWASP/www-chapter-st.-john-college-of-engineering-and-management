@@ -18,6 +18,8 @@ tags: Palghar
 | Venue | [St. John College of Engineering and Management - Palghar](mailto:rhea.rajput@owasp.org) |
 | Map | [Location](https://goo.gl/maps/7m4h94sBRYznxcYF9) |
 | Our Speakers | [Avkash Kathiriya], [Saurabh Tiwari], [Yugal Pathak], [Yuvraj Todankar] |
+
+<img src="assets/images/Final.jpeg" />
 <!--| Creative Lead | --- |
 | Event Coordinator | --- |
 | Junior Secretary | --- |
