@@ -9,9 +9,10 @@ tags: Palghar
 
 ## Next Meeting/Event
 
-### OWASP SJCEM INAUGURAL MEETUP
+## OWASP SJCEM INAUGURAL MEETUP
 
-
+<br>
+| --- | --- | --- |
 | Date | 04-08-2023 |
 | --- | --- | --- |
 | Time | 11:00 to 13:00 | 
