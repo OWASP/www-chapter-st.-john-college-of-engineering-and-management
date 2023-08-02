@@ -15,6 +15,9 @@ St. John College of Engineering and Management (SJCEM) provides facilities for p
 #### Vision: “Excellence in Engineering Education & Creating Next-Gen Leaders / Managers in the Service of Society” 
 The college is situated within a lush green campus in a serene and quiet ambience at the St John Technical Education Complex, located at Vevoor, Palghar (East), district Palghar in Maharashtra. Palghar is a part of Mumbai Suburban Rail Network which extends up to Dahanu and lies on the Mumbai- Ahmedabad rail route 30 kms north of Virar.
 
+## UPCOMING EVENT
+Join us for the 2023 Inaugural Meetup of OWASP Chapter at St. John College of Engineering and Management, Palghar. This event is designed for students, faculties, and professionals interested in cybersecurity and related areas. The meetup features four distinguished speakers who will share their insights on cybersecurity and the latest industry trends, along with highlighting the contribution of OWASP in this domain. Additionally, the event offers networking opportunities for knowledge expansion and interaction with like-minded individuals. Don't miss this chance to connect with experts and stay updated on the evolving world of cybersecurity!
+
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
