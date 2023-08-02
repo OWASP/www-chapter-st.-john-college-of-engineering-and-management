@@ -17,7 +17,7 @@ The college is situated within a lush green campus in a serene and quiet ambienc
 
 ## UPCOMING EVENT
 Join us for the 2023 Inaugural Meetup of OWASP Chapter at St. John College of Engineering and Management, Palghar. This event is designed for students, faculties, and professionals interested in cybersecurity and related areas. The meetup features four distinguished speakers who will share their insights on cybersecurity and the latest industry trends, along with highlighting the contribution of OWASP in this domain. Additionally, the event offers networking opportunities for knowledge expansion and interaction with like-minded individuals. Don't miss this chance to connect with experts and stay updated on the evolving world of cybersecurity!
-* [Details of the Event](https://owasp.org/www-chapter-st.-john-college-of-engineering-and-management/#div-nextevent)
+* [Details and Registration](https://owasp.org/www-chapter-st.-john-college-of-engineering-and-management/#div-nextevent)
 
 
 ## Participation
