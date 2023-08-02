@@ -11,15 +11,20 @@ tags: Palghar
 
 ### OWASP SJCEM INAUGURAL MEETUP
 
+
 | Date | 04-08-2023 |
 | --- | --- | --- |
-| Time | [11:00 to 13:00] | 
-| Event Name | [OWASP SJCEM INAUGURAL MEETUP] |
-| Venue | [St. John College of Engineering and Management - Palghar](mailto:rhea.rajput@owasp.org) |
+| Time | 11:00 to 13:00 | 
+| Event Name | OWASP SJCEM INAUGURAL MEETUP |
+| Venue | St. John College of Engineering and Management - Palghar |
 | Map | [Location](https://goo.gl/maps/7m4h94sBRYznxcYF9) |
-| Our Speakers | [Avkash Kathiriya], [Saurabh Tiwari], [Yugal Pathak], [Yuvraj Todankar] |
+| Our Speakers | Avkash Kathiriya, Saurabh Tiwari, Yugal Pathak, Yuvraj Todankar |
+| Creative Lead | --- |
+
 
 <img src="assets/images/Final.jpeg" />
+
+
 <!--| Creative Lead | --- |
 | Event Coordinator | --- |
 | Junior Secretary | --- |
