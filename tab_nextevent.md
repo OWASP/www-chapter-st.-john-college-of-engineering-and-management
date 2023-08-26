@@ -9,6 +9,5 @@ tags: Palghar
 
 ## Next Meeting/Event
 
-## OWASP SJCEM INAUGURAL MEETUP
 
 Stay tuned for our upcoming Evnets
