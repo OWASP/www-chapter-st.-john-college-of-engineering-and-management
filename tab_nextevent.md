@@ -15,4 +15,4 @@ tags: Palghar
 
 | Date | Name | Venue | Speakers |
 | --- | --- | --- | --- |
-| 03 October 2023 | Module 2: Networking | [3rd floor Classroom, SJCEM](https://goo.gl/maps/7m4h94sBRYznxcYF9) | Yet to confirm | 
+| 03 October 2023 | Module 2: Networking | [3rd floor Classroom, SJCEM](https://goo.gl/maps/7m4h94sBRYznxcYF9) |  | 
