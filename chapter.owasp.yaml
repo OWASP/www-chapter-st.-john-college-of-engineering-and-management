@@ -1,0 +1,27 @@
+leaders:
+  - name: Dr. Arun Saxena
+    email: arun.saxena@owasp.org
+  - name: Nihal Tiwari
+    email: nihal.tiwari@owasp.org
+    github: Nihal-Tiwari
+  - name: Srinivas Mahtolia
+    email: srinivas.mahtolia@owasp.org
+  - name: Akhlak Ansari
+    email: akhlak.ansari@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Palghar
+  latitude: 19.757249
+  longitude: 73.09311986183509
+name: OWASP St. John College of Engineering and Management
+repositories:
+  - name: www-chapter-st.-john-college-of-engineering-and-management
+    url: https://github.com/OWASP/www-chapter-st.-john-college-of-engineering-and-management
+    description: OWASP Foundation Web Repository
+tags:
+  - Palghar
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-st.-john-college-of-engineering-and-management
